@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tugas6_AlarmManager</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="buku">Aladin dan Lampu Ajaib : Seri Kisah 1001 Malam</string>
+    <string name="deskripsi">.Aladin adalah kisah dongeng 1001 Malam yang berasal dari negeri Persia dalam dongeng Aladin dan Lampu Ajaib, terdapat tokoh-tokoh sebagai berikut: Aladin sebagai tokoh peran utama/pangeran, Jasmine sebagai Putri Sultan, Jafar sebagai tokoh jahat, Jin sebagai penyelamat, Abu sebagai monyet.</string>
+    <string name="subject"> Subject : Sastra Arab</string>
+    <string name="jeniskoleksi">Jenis Koleksi : Monograf</string>
+    <string name="price">Harga</string>
+    <string name="harga_buku">Rp 18.000</string>
+    <string name="saran_buku">Saran Buku</string>
+
+    <string-array name="buku">
+        <item>Aladin dan Lampu Ajaib : Seri Kisah 1001 Malam</item>
+        <item>100% Unik dan Fakta di Dunia </item>
+        <item>Ensiklopedia Presiden Republik Indonesia 1 : Soekarno</item>
+        <item>Anak Betawi Diburu Intel Yahudi</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 15000</item>
+        <item>Rp. 17000</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 25.000</item>
+    </string-array>
+    <string name ="api_key">AIzaSyD2V5BRH3b5mzJDi3Xmzfn9AkWArtHrCS4</string>>
+</resources>

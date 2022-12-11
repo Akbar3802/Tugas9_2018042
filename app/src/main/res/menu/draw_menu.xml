@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_alarm"
+            android:icon="@drawable/ic_baseline_access_alarm_24"
+            android:title="Timer" />
+        <item
+            android:id="@+id/nav_buku"
+            android:icon="@drawable/ic_baseline_book_24"
+            android:title="Data Buku" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Profil" />
+        <item
+            android:id="@+id/nav_tambahdata"
+            android:icon="@drawable/ic_baseline_control_point_24"
+            android:title="Tambah Data" />
+        <item
+            android:id="@+id/nav_listbuku"
+            android:icon="@drawable/ic_baseline_collections_bookmark_24"
+            android:title="List Buku" />
+    </group>
+</menu>
